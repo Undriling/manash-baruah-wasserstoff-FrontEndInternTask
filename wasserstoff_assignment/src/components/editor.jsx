@@ -31,7 +31,7 @@ const Editor = ({ username }) => {
       {editor ? (
         <EditorContent editor={editor} />
       ) : (
-        <p className="text-center text-gray-500">🔄 Connecting to real-time editor...</p>
+        <p className="text-center text-gray-500">Connecting to real-time Editor...</p>
       )}
     </div>
   );
