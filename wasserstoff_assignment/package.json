@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tailwindcss/typography": "^0.5.16",
     "@tailwindcss/vite": "^4.1.6",
+    "@tiptap/extension-collaboration": "^2.12.0",
+    "@tiptap/extension-collaboration-cursor": "^2.12.0",
     "@tiptap/react": "^2.12.0",
     "@tiptap/starter-kit": "^2.12.0",
     "nanoid": "^5.1.5",
